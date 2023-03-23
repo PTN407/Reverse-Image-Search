@@ -18,5 +18,3 @@ This search your image on google and return the result to clipboard, after you h
 * **Result** : The link will be copied to your clipboard : [Result!](http://www.google.com/search?tbs=simg:CAESnQIJNM8r_1vnT8fgakQILEKjU2AQaAghCDAsQsIynCBo6CjgIBBIUvwnaEcAE9BPaO9oIoDq1Ad4c3DMaGva1a0DuFZY6zhHzZkCwxxD-H-tW4VUqRU3uIAUwBAwLEI6u_1ggaCgoICAESBBC8qZgMCxCd7cEJGqYBChwKCWdlbnRsZW1hbtqliPYDCwoJL20vMDE5cDVxCiEKDXN1aXQgc2VwYXJhdGXapYj2AwwKCi9tLzBoZ2xtemwKGAoFZXZlbnTapYj2AwsKCS9tLzA4MXBragomChN3aGl0ZS1jb2xsYXIgd29ya2Vy2qWI9gMLCgkvbS8wMWtxM3gKIQoOYnVzaW5lc3NwZXJzb27apYj2AwsKCS9tLzAxMnRfegw&tbm=isch&q=rowan+atkinson&sa=X&ved=2ahUKEwis5caHr7zzAhXbAYgKHcpzAKAQpwV6BAgBECA)  
 * Your link might be different but should be similar to the link above  
   
-  
-* Important Disclaimer: The "wiburaks.png" is just a joke, i support the right of true wibu.
